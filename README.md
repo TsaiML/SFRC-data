@@ -13,3 +13,7 @@ Models with names start with B are the data with aspect ratio = 4. (Total: 200)
 Models with names start with C are the data with aspect ratio = 7. (Total: 200)
 
 Models with names start with D are the data with aspect ratio = 10. (Total: 200)
+
+## ML Code Sample
+
+This sample demonstrates our TGML's process for task B. The Young's moduli of the composites are predicted by Halpin-Tsai model and then taken as one of the input parameters for ML training.
